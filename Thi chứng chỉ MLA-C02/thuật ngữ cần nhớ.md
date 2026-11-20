@@ -1,0 +1,5 @@
+- Explainability – Khả năng giải thích
+- Transparency – Tính minh bạch
+- Fairness – Tính công bằng
+- Safety – Tính an toàn
+- Veracity - tính xác thực, độ đáng tin cậy

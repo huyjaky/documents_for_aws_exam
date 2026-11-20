@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "090908c0f14d02d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f6ee30d9cb288b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82505994fdc0ddb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thi chứng chỉ MLA-C02/AI-ML/service/sử lý dữ liệu/quy trình xử lý dữ liệu trong ML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "quy trình xử lý dữ liệu trong ML"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9325dd9626191ec3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce67dc5c4294bffb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36d59d71cc09de6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a95fc4a81fc5032f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "54532b2531ec3636",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "91fe9c206f4f1d8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d6d2b7c46599647",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1532dcaa0dcded73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Thi chứng chỉ MLA-C02/AI-ML/service/sử lý dữ liệu/quy trình xử lý dữ liệu trong ML.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d11abad4c6c0d9ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Thi chứng chỉ MLA-C02/AI-ML/service/sử lý dữ liệu/quy trình xử lý dữ liệu trong ML.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a5de35c754fbc062",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "149920c05114dd70",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1bd103c32a5e8955",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Thi chứng chỉ MLA-C02/AI-ML/service/sử lý dữ liệu/quy trình xử lý dữ liệu trong ML.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "82505994fdc0ddb3",
+  "lastOpenFiles": [
+    "Linear regression/Linear regression.md",
+    "Thi chứng chỉ MLA-C02/Hyperparameter/Hyperband.md",
+    "Feed forward.md",
+    "Linear regression/Giải thích thêm cho Linear regression.md",
+    "Linear regression/Chứng minh đạo hàm MSE.md"
+  ]
+}

@@ -1,0 +1,6 @@
+| Đáp án                         | Cách hoạt động                                                                                                     | Phù hợp khi                                                     |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
+| **A. On-Demand Instances**     | Dùng bao nhiêu trả bấy nhiêu, không cần cam kết dài hạn.                                                           | Dùng thử, chạy ngắn hạn hoặc chưa biết nhu cầu.                 |
+| **B. Spot Instances**          | Dùng năng lực tính toán dư của AWS với giá rẻ, nhưng **AWS có thể thu hồi tài nguyên**.                            | Công việc chịu được gián đoạn, có thể lưu tiến độ và chạy tiếp. |
+| **C. Reserved Instances**      | Nhận mức giá ưu đãi bằng cách cam kết sử dụng theo điều kiện nhất định trong **1 hoặc 3 năm**; thường gặp với EC2. | Nhu cầu ổn định, biết rõ cấu hình sẽ dùng lâu dài.              |
+| **D. SageMaker Savings Plans** | Cam kết **mức chi tiêu mỗi giờ** trong **1 hoặc 3 năm** để nhận ưu đãi cho mức sử dụng SageMaker đủ điều kiện.     | Dùng SageMaker lâu dài nhưng muốn linh hoạt thay đổi cấu hình.  |

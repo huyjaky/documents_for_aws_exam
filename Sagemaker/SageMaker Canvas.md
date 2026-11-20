@@ -1,0 +1,1 @@
+[[SageMaker Canvas]] là dịch vụ tự động cho ML và Agentic AI với Visual trực quan và tự động làm mọi thứ từ A-Z với chế độ Auto-model giúp phân tích, xử lý và chọn mô hình phù hợp với dữ liệu đầu vào mà mình đưa cho nó 
